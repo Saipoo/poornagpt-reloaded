@@ -1,0 +1,291 @@
+{
+  "categories": [
+    {
+      "name": "Music Generation",
+      "tools": [
+        { "name": "Suno AI", "url": "https://suno.com", "description": "AI music generation" },
+        { "name": "Soundraw", "url": "https://soundraw.io", "description": "AI music composition" },
+        { "name": "Mubert", "url": "https://mubert.com", "description": "AI-generated music" },
+        { "name": "Amper Music", "url": "https://www.ampermusic.com", "description": "AI music creation" },
+        { "name": "OpenAI MuseNet", "url": "https://openai.com/research/musenet", "description": "Music generation model" },
+        { "name": "AIVA", "url": "https://www.aiva.ai", "description": "AI composer" },
+        { "name": "Boomy", "url": "https://boomy.com", "description": "AI music creator" },
+        { "name": "Beatoven.ai", "url": "https://www.beatoven.ai", "description": "Custom music creation" },
+        { "name": "Soundful", "url": "https://soundful.com", "description": "Music generation platform" },
+        { "name": "Harmonai", "url": "https://www.harmonai.org", "description": "Open-source music AI" },
+        { "name": "Splash Music", "url": "https://www.splashmusic.com", "description": "AI music generation" },
+        { "name": "Loudly", "url": "https://loudly.com", "description": "AI music creation" },
+        { "name": "Infinite Album", "url": "https://infinitealbum.io", "description": "Endless music generation" }
+      ]
+    },
+    {
+      "name": "Natural Language Processing",
+      "tools": [
+        { "name": "ChatGPT", "url": "https://chat.openai.com", "description": "Advanced language model for conversation and text generation" },
+        { "name": "Claude 2", "url": "https://claude.ai", "description": "AI assistant for analysis and content creation" },
+        { "name": "Bard", "url": "https://bard.google.com", "description": "Google's conversational AI model" },
+        { "name": "GPT-4", "url": "https://openai.com/gpt-4", "description": "Latest language model from OpenAI" },
+        { "name": "Cohere", "url": "https://cohere.ai", "description": "NLP platform for businesses" },
+        { "name": "Anthropic Claude", "url": "https://anthropic.com", "description": "Advanced AI language model" },
+        { "name": "LangChain", "url": "https://langchain.com", "description": "Framework for LLM applications" },
+        { "name": "Hugging Face", "url": "https://huggingface.co", "description": "Open source AI models and datasets" },
+        { "name": "OpenAI API", "url": "https://openai.com/api", "description": "API access to GPT models" },
+        { "name": "AI21 Labs", "url": "https://www.ai21.com", "description": "Advanced language AI solutions" }
+      ]
+    },
+    {
+      "name": "Full Stack Development",
+      "tools": [
+        { "name": "Vercel AI SDK", "url": "https://sdk.vercel.ai", "description": "AI development toolkit" },
+        { "name": "AutoCode", "url": "https://autocode.com", "description": "AI-powered development" },
+        { "name": "Mutable AI", "url": "https://mutable.ai", "description": "AI full stack assistant" },
+        { "name": "CodeWP", "url": "https://codewp.ai", "description": "WordPress AI development" },
+        { "name": "Stenography", "url": "https://stenography.dev", "description": "AI code documentation" },
+        { "name": "Pieces Dev", "url": "https://pieces.app", "description": "AI development assistant" },
+        { "name": "Bolt", "url": "https://stackblitz.com/bolt", "description": "AI-powered development environment" },
+        { "name": "Replit", "url": "https://replit.com", "description": "AI-powered collaborative coding" },
+        { "name": "V0", "url": "https://v0.dev", "description": "AI web application generator" },
+        { "name": "Cursor", "url": "https://cursor.sh", "description": "AI-first code editor" },
+        { "name": "CodeComplete", "url": "https://codecomplete.ai", "description": "AI code completion" },
+        { "name": "Refraction", "url": "https://refraction.dev", "description": "AI code refactoring" },
+        { "name": "Sourcegraph Cody", "url": "https://sourcegraph.com/cody", "description": "AI code assistant" }
+      ]
+    },
+    {
+      "name": "Game Development",
+      "tools": [
+        { "name": "Unity Sentis", "url": "https://unity.com/products/sentis", "description": "AI for Unity game development" },
+        { "name": "NVIDIA GameGAN", "url": "https://developer.nvidia.com/gamegan", "description": "AI-powered game creation" },
+        { "name": "ML-Agents", "url": "https://unity.com/products/machine-learning-agents", "description": "Unity ML toolkit" },
+        { "name": "modl.ai", "url": "https://modl.ai", "description": "AI tools for game development" },
+        { "name": "Scenario", "url": "https://scenario.com", "description": "AI-generated game assets" },
+        { "name": "InWorld AI", "url": "https://www.inworld.ai", "description": "AI NPCs for games" },
+        { "name": "Replica", "url": "https://replicastudios.com", "description": "AI voice acting for games" },
+        { "name": "AI Dungeon", "url": "https://play.aidungeon.io", "description": "AI-powered text adventure games" },
+        { "name": "Ludo AI", "url": "https://ludo.ai", "description": "Game ideation and prototyping" }
+      ]
+    },
+    {
+      "name": "DevOps & Infrastructure",
+      "tools": [
+        { "name": "GitLab AI", "url": "https://about.gitlab.com/ai", "description": "AI-powered DevOps" },
+        { "name": "Cortex", "url": "https://cortex.dev", "description": "ML infrastructure platform" },
+        { "name": "Harness AI", "url": "https://harness.io", "description": "AI-powered DevOps" },
+        { "name": "Dynatrace Davis AI", "url": "https://www.dynatrace.com/platform/artificial-intelligence", "description": "AI for IT operations" },
+        { "name": "Datadog AI", "url": "https://www.datadoghq.com/product/ai", "description": "AI-powered monitoring" },
+        { "name": "OpsAI", "url": "https://opsai.com", "description": "AI for operations" },
+        { "name": "Codefresh", "url": "https://codefresh.io", "description": "AI-powered CI/CD" },
+        { "name": "Argo AI", "url": "https://argoproj.github.io", "description": "AI for Kubernetes" }
+      ]
+    },
+    {
+      "name": "Code Generation",
+      "tools": [
+        { "name": "GitHub Copilot", "url": "https://github.com/features/copilot", "description": "AI pair programmer" },
+        { "name": "Amazon CodeWhisperer", "url": "https://aws.amazon.com/codewhisperer", "description": "ML-powered coding companion" },
+        { "name": "Tabnine", "url": "https://www.tabnine.com", "description": "AI code completion" },
+        { "name": "Replit Ghost Writer", "url": "https://replit.com/ghost-writer", "description": "AI coding assistant" },
+        { "name": "CodeGeeX", "url": "https://codegeex.ai", "description": "Open-source code generation" },
+        { "name": "Codeium", "url": "https://codeium.com", "description": "AI coding assistant" },
+        { "name": "AskCodi", "url": "https://www.askcodi.com", "description": "AI programming assistant" },
+        { "name": "CodeT5", "url": "https://github.com/salesforce/CodeT5", "description": "Code generation model" }
+      ]
+    },
+    {
+      "name": "Voice & Speech",
+      "tools": [
+        { "name": "ElevenLabs", "url": "https://elevenlabs.io", "description": "AI voice generation" },
+        { "name": "Murf.ai", "url": "https://murf.ai", "description": "AI voice generator" },
+        { "name": "Play.ht", "url": "https://play.ht", "description": "Text to speech" },
+        { "name": "Resemble.ai", "url": "https://www.resemble.ai", "description": "Voice AI" },
+        { "name": "Coqui", "url": "https://coqui.ai", "description": "Open source voice AI" },
+        { "name": "Speechify", "url": "https://speechify.com", "description": "Text to speech" },
+        { "name": "Descript", "url": "https://www.descript.com/overdub", "description": "Voice cloning" },
+        { "name": "WellSaid", "url": "https://wellsaidlabs.com", "description": "AI voice generation" }
+      ]
+    },
+    {
+      "name": "Video Generation",
+      "tools": [
+        { "name": "Runway", "url": "https://runway.ml", "description": "AI video tools" },
+        { "name": "Synthesia", "url": "https://www.synthesia.io", "description": "AI video creation" },
+        { "name": "D-ID", "url": "https://www.d-id.com", "description": "AI video generation" },
+        { "name": "HeyGen", "url": "https://www.heygen.com", "description": "AI video platform" },
+        { "name": "Descript", "url": "https://www.descript.com", "description": "AI video editing" },
+        { "name": "Pictory", "url": "https://pictory.ai", "description": "Video creation" },
+        { "name": "Hour One", "url": "https://hourone.ai", "description": "AI video generation" },
+        { "name": "Kapwing", "url": "https://www.kapwing.com", "description": "AI video editor" }
+      ]
+    },
+    {
+      "name": "Database & API",
+      "tools": [
+        { "name": "MindsDB", "url": "https://mindsdb.com", "description": "AI database" },
+        { "name": "Superbase AI", "url": "https://supabase.com/ai", "description": "AI database" },
+        { "name": "Xata", "url": "https://xata.io", "description": "AI database" },
+        { "name": "Vectara", "url": "https://vectara.com", "description": "AI search" },
+        { "name": "Pinecone", "url": "https://www.pinecone.io", "description": "Vector database" },
+        { "name": "QuestDB", "url": "https://questdb.io", "description": "Time series DB" },
+        { "name": "EdgeDB", "url": "https://www.edgedb.com", "description": "Graph database" }
+      ]
+    },
+    {
+      "name": "Testing & QA",
+      "tools": [
+        { "name": "Testim", "url": "https://www.testim.io", "description": "AI testing" },
+        { "name": "Mabl", "url": "https://www.mabl.com", "description": "Test automation" },
+        { "name": "Applitools", "url": "https://applitools.com", "description": "Visual testing" },
+        { "name": "TestSigma", "url": "https://testsigma.com", "description": "Test automation" },
+        { "name": "Functionize", "url": "https://www.functionize.com", "description": "AI testing" },
+        { "name": "Perfecto", "url": "https://www.perfecto.io", "description": "Testing platform" },
+        { "name": "Eggplant", "url": "https://www.eggplantsoftware.com", "description": "Test automation" }
+      ]
+    },
+    {
+      "name": "Security & Code Analysis",
+      "tools": [
+        { "name": "Snyk", "url": "https://snyk.io", "description": "Security platform" },
+        { "name": "DeepCode", "url": "https://www.deepcode.ai", "description": "Code reviews" },
+        { "name": "GitGuardian", "url": "https://www.gitguardian.com", "description": "Security" },
+        { "name": "Contrast Security", "url": "https://www.contrastsecurity.com", "description": "Security" },
+        { "name": "BluBracket", "url": "https://blubracket.com", "description": "Code security" },
+        { "name": "Checkmarx", "url": "https://www.checkmarx.com", "description": "Security testing" },
+        { "name": "SonarQube", "url": "https://www.sonarqube.org", "description": "Code quality" }
+      ]
+    },
+    {
+      "name": "Mobile Development",
+      "tools": [
+        { "name": "Fritz AI", "url": "https://fritz.ai", "description": "Mobile ML" },
+        { "name": "Appcircle AI", "url": "https://appcircle.io", "description": "Mobile CI/CD" },
+        { "name": "Appetize", "url": "https://appetize.io", "description": "App testing" },
+        { "name": "RevenueCat", "url": "https://www.revenuecat.com", "description": "Subscriptions" },
+        { "name": "Embrace", "url": "https://embrace.io", "description": "Monitoring" },
+        { "name": "Firebase ML", "url": "https://firebase.google.com/products/ml", "description": "Mobile ML" },
+        { "name": "App Center", "url": "https://appcenter.ms", "description": "Mobile DevOps" }
+      ]
+    },
+    {
+      "name": "Low Code & No Code",
+      "tools": [
+        { "name": "Builder.io", "url": "https://www.builder.io", "description": "Page building" },
+        { "name": "Bubble", "url": "https://bubble.io", "description": "Visual programming" },
+        { "name": "Webflow", "url": "https://webflow.com", "description": "Web development" },
+        { "name": "Adalo", "url": "https://www.adalo.com", "description": "App builder" },
+        { "name": "FlutterFlow", "url": "https://flutterflow.io", "description": "Flutter builder" },
+        { "name": "Retool", "url": "https://retool.com", "description": "Internal tools" },
+        { "name": "Appsmith", "url": "https://www.appsmith.com", "description": "Internal apps" }
+      ]
+    },
+    {
+      "name": "Competitive Coding",
+      "tools": [
+        { "name": "LeetCode", "url": "https://leetcode.com", "description": "Coding practice" },
+        { "name": "HackerRank", "url": "https://www.hackerrank.com", "description": "Coding challenges" },
+        { "name": "CodeForces", "url": "https://codeforces.com", "description": "Competitions" },
+        { "name": "CodeChef", "url": "https://www.codechef.com", "description": "Programming contests" },
+        { "name": "AtCoder", "url": "https://atcoder.jp", "description": "Programming contests" },
+        { "name": "TopCoder", "url": "https://www.topcoder.com", "description": "Competitions" }
+      ]
+    },
+    {
+      "name": "Cloud Service Providers",
+      "tools": [
+        { "name": "AWS AI", "url": "https://aws.amazon.com/machine-learning", "description": "AWS AI services" },
+        { "name": "Google Cloud AI", "url": "https://cloud.google.com/ai-platform", "description": "GCP AI" },
+        { "name": "Azure AI", "url": "https://azure.microsoft.com/solutions/ai", "description": "Azure AI" },
+        { "name": "IBM Watson", "url": "https://www.ibm.com/watson", "description": "Watson AI" },
+        { "name": "Oracle AI", "url": "https://www.oracle.com/artificial-intelligence", "description": "Oracle AI" },
+        { "name": "Alibaba Cloud", "url": "https://www.alibabacloud.com/product/ai", "description": "Alibaba AI" }
+      ]
+    },
+    {
+      "name": "Deployment & Hosting",
+      "tools": [
+        { "name": "Vercel", "url": "https://vercel.com", "description": "Frontend deployment" },
+        { "name": "Netlify", "url": "https://netlify.com", "description": "Web deployment" },
+        { "name": "Railway", "url": "https://railway.app", "description": "Full-stack deployment" },
+        { "name": "Render", "url": "https://render.com", "description": "Cloud hosting" },
+        { "name": "Fly.io", "url": "https://fly.io", "description": "Edge deployment" },
+        { "name": "Heroku", "url": "https://heroku.com", "description": "Cloud platform" },
+        { "name": "DigitalOcean", "url": "https://digitalocean.com", "description": "Cloud hosting" },
+        { "name": "AWS Amplify", "url": "https://aws.amazon.com/amplify", "description": "AWS deployment" },
+        { "name": "Cloudflare Pages", "url": "https://pages.cloudflare.com", "description": "JAMstack" },
+        { "name": "Deno Deploy", "url": "https://deno.com/deploy", "description": "Edge runtime" },
+        { "name": "Platform.sh", "url": "https://platform.sh", "description": "Cloud deployment" },
+        { "name": "Firebase", "url": "https://firebase.google.com", "description": "Google platform" }
+      ]
+    },
+    {
+      "name": "API Tools",
+      "tools": [
+        { "name": "RapidAPI", "url": "https://rapidapi.com", "description": "API marketplace" },
+        { "name": "Postman", "url": "https://postman.com", "description": "API platform" },
+        { "name": "Swagger", "url": "https://swagger.io", "description": "API docs" },
+        { "name": "Fake Store API", "url": "https://fakestoreapi.com", "description": "Fake store API" },
+        { "name": "JSONPlaceholder", "url": "https://jsonplaceholder.typicode.com", "description": "Fake REST API" },
+        { "name": "SerpAPI", "url": "https://serpapi.com", "description": "Search API" },
+        { "name": "API Ninjas", "url": "https://api-ninjas.com", "description": "API collection" },
+        { "name": "OpenAPI", "url": "https://www.openapis.org", "description": "API spec" },
+        { "name": "Hoppscotch", "url": "https://hoppscotch.io", "description": "API platform" },
+        { "name": "MockAPI", "url": "https://mockapi.io", "description": "Mock API" },
+        { "name": "Insomnia", "url": "https://insomnia.rest", "description": "API client" },
+        { "name": "API Hub", "url": "https://apihub.com", "description": "API marketplace" }
+      ]
+    },
+    {
+      "name": "Image Generation",
+      "tools": [
+        { "name": "DALL-E 3", "url": "https://openai.com/dall-e-3", "description": "Image generation" },
+        { "name": "Midjourney", "url": "https://www.midjourney.com", "description": "AI art" },
+        { "name": "Stable Diffusion", "url": "https://stability.ai", "description": "Image generation" },
+        { "name": "Canva Text to Image", "url": "https://www.canva.com", "description": "Image generation" },
+        { "name": "Leonardo.ai", "url": "https://leonardo.ai", "description": "Creative studio" },
+        { "name": "Playground AI", "url": "https://playground.ai", "description": "Image creation" },
+        { "name": "Adobe Firefly", "url": "https://www.adobe.com/firefly", "description": "Creative AI" },
+        { "name": "Imagen", "url": "https://imagen.research.google", "description": "Google's model" },
+        { "name": "RunwayML", "url": "https://runwayml.com", "description": "Creative tools" },
+        { "name": "Artbreeder", "url": "https://www.artbreeder.com", "description": "AI art" }
+      ]
+    }
+  ],
+  "resources": {
+    "datasets": [
+      { "name": "Kaggle Datasets", "url": "https://www.kaggle.com/datasets", "description": "Popular data science platform" },
+      { "name": "Google Dataset Search", "url": "https://datasetsearch.research.google.com", "description": "Search engine for datasets" },
+      { "name": "Hugging Face Datasets", "url": "https://huggingface.co/datasets", "description": "ML datasets" },
+      { "name": "Papers with Code", "url": "https://paperswithcode.com/datasets", "description": "ML papers and datasets" },
+      { "name": "UCI ML Repository", "url": "https://archive.ics.uci.edu/ml/index.php", "description": "Machine learning datasets" },
+      { "name": "OpenML", "url": "https://www.openml.org", "description": "Open Machine Learning datasets" },
+      { "name": "AWS Open Data", "url": "https://aws.amazon.com/opendata", "description": "Public datasets on AWS" }
+    ],
+    "databases": [
+      { "name": "MongoDB Atlas", "url": "https://www.mongodb.com/atlas", "description": "Cloud document database" },
+      { "name": "Supabase", "url": "https://supabase.com", "description": "Open source Firebase alternative" },
+      { "name": "PlanetScale", "url": "https://planetscale.com", "description": "MySQL platform" },
+      { "name": "Fauna", "url": "https://fauna.com", "description": "Distributed database" },
+      { "name": "Neon", "url": "https://neon.tech", "description": "Serverless Postgres" },
+      { "name": "CockroachDB", "url": "https://www.cockroachlabs.com", "description": "Distributed SQL database" },
+      { "name": "Redis Cloud", "url": "https://redis.com/redis-enterprise-cloud", "description": "In-memory database" }
+    ],
+    "hosting": [
+      { "name": "Vercel", "url": "https://vercel.com", "description": "Frontend deployment and hosting" },
+      { "name": "Netlify", "url": "https://www.netlify.com", "description": "Modern web hosting platform" },
+      { "name": "Railway", "url": "https://railway.app", "description": "Infrastructure platform" },
+      { "name": "Fly.io", "url": "https://fly.io", "description": "Full stack hosting" },
+      { "name": "Render", "url": "https://render.com", "description": "Cloud hosting platform" },
+      { "name": "DigitalOcean App Platform", "url": "https://www.digitalocean.com/products/app-platform", "description": "PaaS solution" },
+      { "name": "Heroku", "url": "https://www.heroku.com", "description": "Cloud application platform" },
+      { "name": "Cloudflare Pages", "url": "https://pages.cloudflare.com", "description": "JAMstack platform" }
+    ],
+    "development": [
+      { "name": "StackBlitz", "url": "https://stackblitz.com", "description": "Online IDE" },
+      { "name": "CodeSandbox", "url": "https://codesandbox.io", "description": "Cloud development platform" },
+      { "name": "Gitpod", "url": "https://www.gitpod.io", "description": "Cloud development environment" },
+      { "name": "GitHub Codespaces", "url": "https://github.com/features/codespaces", "description": "Cloud development environment" },
+      { "name": "Replit", "url": "https://replit.com", "description": "Collaborative coding platform" },
+      { "name": "CodePen", "url": "https://codepen.io", "description": "Social development environment" },
+      { "name": "Glitch", "url": "https://glitch.com", "description": "Collaborative coding platform" }
+    ]
+  }
+}
